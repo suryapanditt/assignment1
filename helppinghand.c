@@ -37,16 +37,19 @@
 // printf("Factorial of %d is %llu\n", num, fact(num));
 //     return 0;
 // }
- 
-    
-    // if (leap(num)) {
-    //     printf("%d is a leap year\n", num);
-    // } else {
-    //     printf("%d is not a leap year\n", num);
-    // }
 
-
-    
+// int main() 
+// {
+//     int num;
+//     printf("Enter the Year: ");
+//     scanf("%d", &num);
+//     // Check if the year is a leap year
+//     if (leap(num)) {
+//         printf("%d is a leap year\n", num);
+//     }
+//      else {
+//         printf("%d is not a leap year\n", num);
+//     } 
 //     return 0;
 // }
 
